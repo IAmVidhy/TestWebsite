@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Test Website</title>
-	<atom:link href="/https://iamvidhy.github.io/TestWebsite/feed/" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; Test Website</title>
+	<atom:link href="/https://iamvidhy.github.io/TestWebsite/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://iamvidhy.github.io/TestWebsite</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 09 Jul 2021 12:14:28 +0000</lastBuildDate>
