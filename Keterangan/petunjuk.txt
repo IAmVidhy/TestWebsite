@@ -1,0 +1,19 @@
+untuk Websitenya ada di pages "Main Page" 
+
+wordpress
+id : admin
+pass : admin
+
+plugins yang digunakan :
+- ACF
+- Elementor
+- Elementor Header Footer
+- Child Theme Configurator
+- Custom Post Type UI
+- Simply Static
+- WP Scustom 
+
+custom field
+- judul
+- foto trainer
+
